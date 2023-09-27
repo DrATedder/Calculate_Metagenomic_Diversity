@@ -2,7 +2,7 @@
 A simple Java-based GUI (python backend) to calculate Alpha and Beta diversity on post-[centrifuge](https://github.com/DaehwanKimLab/centrifuge "Link to Centrifuge Github page") 'abundance' files.
 
 ## Appearance
-![Screenshot] (https://github.com/DrATedder/Calculate_Metagenomic_Diversity/blob/f87d242fad28d21e74ddf3bcc0dae584b6ed3fa2/App_image.png "Calculate_Metagenomic_Diversity App appearance")
+![Screenshot](https://github.com/DrATedder/Calculate_Metagenomic_Diversity/blob/f87d242fad28d21e74ddf3bcc0dae584b6ed3fa2/App_image.png "Calculate_Metagenomic_Diversity App appearance")
 
 ## Features
 - **User-Friendly Interface:** The app offers a simple and intuitive GUI for selecting your data and performing the analysis.
